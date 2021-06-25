@@ -12,7 +12,7 @@
 
 <h2>Github Stats:</h2>
 <p align="center" >
-<img width="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jgiwinski&show_icons=true&theme=vue-dark&hide=stars_private=true">
+<img width="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RMartin0717&show_icons=true&theme=vue-dark&hide=stars_private=true">
  <img align="right" width="40%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMartin0717&show_icons=true&layout=compact&theme=radical">
 </p>
 
