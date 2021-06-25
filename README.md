@@ -19,7 +19,7 @@ My name is Riley (they/them) and I am a front-end software developer, soon-to-be
 
 
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=RMartin0717)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=RMartin0717&show_icons=true&theme=radical)
 
 #### I'm currently learning how to build my own back end API using Express, Knex, and PostgreSQL
 
