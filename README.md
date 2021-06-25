@@ -1,31 +1,55 @@
-### Hello friend! 👋🏼
 
-My name is Riley (they/them) and I am a front-end software developer, soon-to-be graduate from Turing School of Software and Design.
+<h1 align="center">Riley Martin</h1>
+<h2 align="center">Front-End Software Engineer | Denver, Colorado</h2>
 
-#### Contact 
-- [LinkedIn](https://www.linkedin.com/in/rmartin0717/)
-- Email: <riley.willow@gmail.com> 
 
-#### Technologies 
-<p style="text-align:center;">
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
-<img alt="Cypress.io" src="https://camo.githubusercontent.com/bd9c528263673db09f67bcf3445ba8e5512cfb6829e966a31ef7a378933b231a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d437970726573732e696f2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d637970726573732e696f266c6f676f436f6c6f723d7768697465"/>
+<p align="center">
+ <a href="https://www.linkedin.com/in/rmartin0717/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail"></a>
+ <a href="mailto:riley.willow@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
+ <a href="https://terminal.turing.edu/profiles/757"><img src="https://img.shields.io/badge/Turing-000?style=for-the-badge&logo=turing&logoColor=black" alt="turing portfolio"></a>
+<br>
+ 
+
+<h2>Github Stats:</h2>
+<p align="center" >
+<img width="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jgiwinski&show_icons=true&theme=vue-dark&hide=stars_private=true">
+ <img align="right" width="40%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMartin0717&show_icons=true&layout=compact&theme=radical">
 </p>
 
+## Technologies
 
+<p align="center">
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<!-- <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+</p>
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=RMartin0717&show_icons=true&theme=radical)
+<p align="center">
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black"/>
+<!-- <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/> -->
+</p>
 
-#### I'm currently learning how to build my own back end API using Express, Knex, and PostgreSQL
+<p align="center">
+<img src="https://img.shields.io/badge/Vue%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>
+<img src="https://img.shields.io/badge/chai-A11404?style=for-the-badge&logo=chai&logoColor=white"/>
+<img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/jest%20-%23231123.svg?&style=for-the-badge&logo=jest&logoColor=%23E34F26"/> -->
+<!-- <img src="https://img.shields.io/badge/-Testing%20Library-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white"/> -->
+</p>
 
-
-#### When I'm not learning new technologies, I enjoy:
-
-- Hiking, camping, biking
-- Painting
-- Reading about nature and outer space
+## Trophies
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=RMartin0717&column=6&theme=vue-dark&margin-w=20&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
