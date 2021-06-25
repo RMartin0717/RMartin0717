@@ -12,8 +12,8 @@
 
 <h2>Github Stats:</h2>
 <p align="center">
- <img width="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RMartin0717&show_icons=true&theme=radical&hide=stars_private=true">
- <img align="right" width="45%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMartin0717&show_icons=true&layout=compact&theme=radical">
+ <img height="20%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RMartin0717&show_icons=true&theme=radical&hide=stars_private=true">
+ <img align="right" height="20%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMartin0717&show_icons=true&layout=compact&theme=radical">
 </p>
 
 ## Technologies
