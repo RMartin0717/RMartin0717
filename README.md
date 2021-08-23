@@ -42,6 +42,7 @@
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/Vue%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> -->
+ <img alt="Cypress" src="https://img.shields.io/badge/cypress-04C38E.svg?&style=for-the-badge&logo=cypress&logoColor=white"/>
 <img src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>
 <img src="https://img.shields.io/badge/chai-A11404?style=for-the-badge&logo=chai&logoColor=white"/>
 <!-- <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/> -->
