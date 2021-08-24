@@ -21,6 +21,7 @@
 <p align="center">
  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+ <img alt="ContextAPI" src="https://img.shields.io/badge/-Context_API-211f20?logo=react&logoColor=61DAFB&style=for-the-badge"/>
 <!-- <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> -->
 </p>
