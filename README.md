@@ -1,6 +1,6 @@
 
 <h1 align="center">Riley Martin</h1>
-<h2 align="center">Front-End Software Engineer | Denver, Colorado</h2>
+<h2 align="center">Software Engineer | Denver, Colorado</h2>
 
 
 <p align="center">
