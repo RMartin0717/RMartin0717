@@ -1,6 +1,6 @@
 
 <h1 align="center">Riley Martin</h1>
-<h2 align="center">Software Engineer | Denver, Colorado</h2>
+<h2 align="center">Software Engineer | Chicago, IL</h2>
 
 
 <p align="center">
